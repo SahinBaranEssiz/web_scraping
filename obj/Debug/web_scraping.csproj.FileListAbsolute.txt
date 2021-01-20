@@ -1,0 +1,12 @@
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\bin\Debug\web_scraping.exe.config
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\bin\Debug\web_scraping.exe
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\bin\Debug\web_scraping.pdb
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\bin\Debug\WebDriver.dll
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\bin\Debug\WebDriver.Support.dll
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\bin\Debug\WebDriver.xml
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\bin\Debug\WebDriver.Support.xml
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\obj\Debug\web_scraping.csprojAssemblyReference.cache
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\obj\Debug\web_scraping.csproj.CoreCompileInputs.cache
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\obj\Debug\web_scraping.csproj.CopyComplete
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\obj\Debug\web_scraping.exe
+A:\proje\c#\web_scraping\v2\web_scraping\web_scraping\obj\Debug\web_scraping.pdb
